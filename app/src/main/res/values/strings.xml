@@ -5,7 +5,7 @@
     <string name="qjioo_price">£%1$.2f</string>
 
     <!-- top bar titles -->
-    <string name="qjioo_top_bar_home_title">Home/App Title</string>
+    <string name="qjioo_top_bar_home_title">HHH Travel Link</string>
     <string name="qjioo_top_bar_cart_title">Cart</string>
     <string name="qjioo_top_bar_checkout_title">Checkout</string>
     <string name="qjioo_top_bar_orders_title">Orders</string>
@@ -19,12 +19,12 @@
     <string name="qjioo_bottom_bar_nav_item_settings_title">Settings</string>
 
     <!-- onboarding screen -->
-    <string name="qjioo_page_1_title">Strategic Planning</string>
-    <string name="qjioo_page_2_title">Operational Excellence</string>
-    <string name="qjioo_page_3_title">Change Management</string>
-    <string name="qjioo_page_1_description">Comprehensive strategic analysis and planning that aligns your business objectives with market opportunities and organizational capabilities.</string>
-    <string name="qjioo_page_2_description">Process optimization and operational improvement strategies that enhance efficiency, reduce costs, and drive sustainable performance.</string>
-    <string name="qjioo_page_3_description">Expert guidance through organizational transformation</string>
+    <string name="qjioo_page_1_title">Pack with intention</string>
+    <string name="qjioo_page_2_title">Find your travel rhythm</string>
+    <string name="qjioo_page_3_title">Reserve, then collect</string>
+    <string name="qjioo_page_1_description">Choose luggage designed to make every departure feel effortless.</string>
+    <string name="qjioo_page_2_description">Explore beautifully considered bags and travel essentials.</string>
+    <string name="qjioo_page_3_description">We hold every confirmed reservation in store for 24 hours.</string>
     <string name="qjioo_next_button_title">Next</string>
     <string name="qjioo_start_button_title">Start</string>
     <string name="qjioo_skip_button_title">Skip</string>
@@ -56,17 +56,23 @@
     <string name="qjioo_button_confirm_order_label">Confirm Order</string>
 
     <!-- checkout dialog -->
-    <string name="qjioo_checkout_dialog_title">Thank You for Your Order!</string>
-    <string name="qjioo_checkout_success_message">Your order has been successfully placed. Please hold on; our team will contact you shortly.</string>
+    <string name="qjioo_checkout_dialog_title">Reservation confirmed</string>
+    <string name="qjioo_checkout_success_message">Your order number and details are saved in Orders. We will hold your reservation in store for 24 hours.</string>
     <string name="qjioo_checkout_dialog_confirm">Done</string>
 
     <!-- settings screen -->
     <string name="qjioo_settings_screen_company_label">Company</string>
     <string name="qjioo_settings_screen_version_label">Version</string>
     <string name="qjioo_settings_screen_customer_support_label">Customer Support</string>
-    <string name="qjioo_company_name">Company Name</string>
-    <string name="qjioo_app_version">1.0.0</string>
-    <string name="qjioo_customer_support_link">https://website.org/</string>
+    <string name="qjioo_company_name">HHHCOSMETICS LTD</string>
+    <string name="qjioo_app_version">1.0</string>
+    <string name="qjioo_customer_support_link">http://hhhcosmetics.casa/</string>
+
+    <string name="qjioo_category_suitcases">Suitcases</string>
+    <string name="qjioo_category_backpacks">Backpacks</string>
+    <string name="qjioo_category_travel_bags">Travel Bags</string>
+    <string name="qjioo_category_organizers">Organizers</string>
+    <string name="qjioo_category_comfort">Travel Comfort</string>
 
     <!-- clear cart dialog -->
     <string name="qjioo_clear_cart_dialog_title">Clear cart?</string>

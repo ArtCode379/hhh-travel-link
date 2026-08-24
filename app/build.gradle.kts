@@ -77,7 +77,7 @@ dependencies {
     //[COMMON][in_app_review_dependency]
 
     // Fonts
-    implementation("androidx.compose.ui:ui-text-google-fonts:1.11.2")
+    implementation("androidx.compose.ui:ui-text-google-fonts:1.7.8")
 
     // Coil
     implementation("io.coil-kt.coil3:coil-compose:3.4.0")

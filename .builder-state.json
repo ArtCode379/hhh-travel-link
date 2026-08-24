@@ -1,6 +1,6 @@
 {
-  "phase": "scaffold_cloned",
-  "updated_at": "2026-08-24T07:22:35.923048+00:00",
+  "phase": "github_push_started",
+  "updated_at": "2026-08-24T07:41:11.745540+00:00",
   "slug": "hhh-travel-link",
   "type": "shop",
   "package": "hhhcosmetics.luggage.hhhtravellink",
@@ -12,6 +12,15 @@
   "domain": "http://hhhcosmetics.casa/",
   "company": "HHHCOSMETICS LTD",
   "repo_url": "https://github.com/ArtCode379/hhh-travel-link",
-  "quality_status": "not_run",
-  "build_status": "not_run"
+  "quality_status": "passed",
+  "build_status": "passed",
+  "icon_primary": "#5B294F",
+  "icon_status": "imagegen",
+  "icon_error": "generate-icon.sh exited 1",
+  "quality_attempt": 2,
+  "quality_errors": 0,
+  "quality_result_file": "/tmp/hhh-travel-link/quality-result.txt",
+  "build_exit_code": 0,
+  "build_result_file": "/tmp/hhh-travel-link/build-result.txt",
+  "build_attempt": 1
 }
